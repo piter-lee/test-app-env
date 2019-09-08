@@ -1,0 +1,19 @@
+{
+  "appKey": "BueVl8TFuCrQ7VRuGxZPJnF4Wk3naA4O",
+  "appSecret": "VXQMUiiao7gpn6q24jag122Z7zGmdo8k",
+  "projectId": 64,
+  "id": 138,
+  "name": "test-app-env",
+  "framework": "vue",
+  "platform": "mobile",
+  "description": "",
+  "git": {
+    "url": "https://github.com/piter-lee/test-app-env.git",
+    "isPrivate": 0,
+    "username": "piter-lee",
+    "password": "Dqshanshan0327"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
